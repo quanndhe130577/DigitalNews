@@ -1,0 +1,40 @@
+.preheader
+{
+    background-image: url(../images/preheader.jpg);
+    background-size: 1000px;
+    width: 1000px;
+    height:71px ;
+    background-repeat: no-repeat;
+}
+.header
+{
+    background-image: url(../images/header.jpg);
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 78px;
+    font-weight: bold;
+}
+.header h3
+{
+    padding-left: 80px;
+    padding-top: 5px;
+    color: white;
+    margin-top: 0px;
+}
+.menu
+{
+    background-image: url(../images/menu.jpg);
+    background-size: 1000px;
+    width: 1000px;
+    height: 32px;
+}
+.menu a
+{
+    padding-left: 80px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 32px;
+    text-decoration: none;
+    color: #ffffff;
+}
